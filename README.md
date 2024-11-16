@@ -27,9 +27,18 @@ b. **S, G:** A forum thread allows all company members to participate, with upvo
 ## 💻 Tech Stack
 
 - **Frontend:**
-  Languages: TypeScript, Javascript
-  Framework: Next.js
-  Styling: TailwindCSS, Google Fonts
+
+---
+
+Languages: TypeScript, Javascript
+
+---
+
+Framework: Next.js
+
+---
+
+Styling: TailwindCSS, Google Fonts
 
 - **Backend:**
   Smart Contracts: Solidity
