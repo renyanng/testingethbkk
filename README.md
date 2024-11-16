@@ -1,4 +1,4 @@
-# DeESG
+*DeESG*
 
 ---
 
@@ -6,7 +6,7 @@ Decentralised ESG Evaluation using IoT and LLM with Incentivised Green Token (GT
 
 ---
 
-## 📌 Problem Statement
+**📌 Problem Statement**
 
 i. Current ESG evaluations are potentially biased, as scores may be manipulated by organisations to appear better than they are, aimed at attracting more funding and investments.
 ii. There’s not enough data to train AI models. Plus, current ESG evaluation relies heavily on self-reported data. More trustworthy data is needed to train AI models for ESG rating.
@@ -14,9 +14,9 @@ iii. Companies are not incentivised enough to improve or maintain their ESG scor
 
 ---
 
-## ✅ Solution
+**✅ Solution**
 
-### 🌐 Decentralised ESG Rating System
+**_🌐 Decentralised ESG Rating System_**
 
 1. Leverage AI clustering method to classify company ESG risk levels and generate ESG ratings, eliminate the need for human evaluation and likelihood of human bias.
 2. **E:** Using IoT devices to allow trustless process for data collection, using sensors on edge devices to gather environmental data (e.g. greenhouse emissions and electricity consumption).
@@ -63,9 +63,7 @@ Facilitate anonymous employee participation (comments, upvotes/downvotes) in the
 
 - **Storage:**
 
-**IPFS**
-
-Store raw IoT sensor data and metadata in a decentralized, immutable manner.
+**IPFS**: Store raw IoT sensor data and metadata in a decentralized, immutable manner.
 Provide accessibility to data for on-chain analysis and audits.
 
 - **On Chain AI:**
