@@ -13,9 +13,9 @@ Decentralised ESG Evaluation using IoT and LLM with Incentivised Green Token (GT
 ### 🌐 Decentralised ESG Rating System
 
 1. Leverage AI clustering method to classify company ESG risk levels and generate ESG ratings, eliminate the need for human evaluation and likelihood of human bias.
-2. **E:** Using IoT devices to allow trustless process for data collection, using sensors on edge devices to gather environmental data (e.g. greenhouse emissions and electricity consumption).
+2. a. **E:** Using IoT devices to allow trustless process for data collection, using sensors on edge devices to gather environmental data (e.g. greenhouse emissions and electricity consumption).
 
-**S, G:** A forum thread allows all company members to participate, with upvotes/downvotes representing the company's sentiment (qualitative data), ensuring balance and reducing tampered company data (S, G). Leverage FHE(Fully Homomorphic Encryption) for anonymity. 3. **GreenToken (GTK)** tokenomics system incentivises companies to become more sustainable and ethical, while also supporting governance in the sustainability and regenerative finance sector.
+b. **S, G:** A forum thread allows all company members to participate, with upvotes/downvotes representing the company's sentiment (qualitative data), ensuring balance and reducing tampered company data (S, G). Leverage FHE(Fully Homomorphic Encryption) for anonymity. 3. **GreenToken (GTK)** tokenomics system incentivises companies to become more sustainable and ethical, while also supporting governance in the sustainability and regenerative finance sector.
 
 ## 🚀 Features
 
