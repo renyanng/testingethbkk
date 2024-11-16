@@ -1,18 +1,12 @@
 # 🌱 DeESG
 
----
-
 Decentralised ESG Evaluation using IoT and LLM with Incentivised Green Token (GTK)
-
----
 
 ## 📌 Problem Statement
 
-i. Current ESG evaluations are potentially biased, as scores may be manipulated by organisations to appear better than they are, aimed at attracting more funding and investments.
-ii. There’s not enough data to train AI models. Plus, current ESG evaluation relies heavily on self-reported data. More trustworthy data is needed to train AI models for ESG rating.
-iii. Companies are not incentivised enough to improve or maintain their ESG scores, which hinders positive environmental impact.
-
----
+1. Current ESG evaluations are potentially biased, as scores may be manipulated by organisations to appear better than they are, aimed at attracting more funding and investments.
+2. There’s not enough data to train AI models. Plus, current ESG evaluation relies heavily on self-reported data. More trustworthy data is needed to train AI models for ESG rating.
+3. Companies are not incentivised enough to improve or maintain their ESG scores, which hinders positive environmental impact.
 
 ## ✅ Solution
 
@@ -83,4 +77,4 @@ Withdraw GTK from Smart Wallet
 ## Links
 
 1. DeESG Landing Page:
-2. 
+2.
