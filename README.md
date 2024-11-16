@@ -1,4 +1,4 @@
-# DeESG
+# 🌱 DeESG
 
 ---
 
@@ -75,3 +75,12 @@ Integrate with blockchain for on-chain inference.
 - **Ledger:**
 
 Withdraw GTK from Smart Wallet
+
+## Smart Contract Addresses:
+
+## Smart Contract Functions:
+
+## Links
+
+1. DeESG Landing Page:
+2. 
