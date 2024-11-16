@@ -39,7 +39,9 @@ Styling: TailwindCSS, Google Fonts
 ### Backend
 
 Smart Contracts: Solidity
+
 Blockchain Frameworks: Web3.js, Ethers.js
+
 Networks: Scroll Sepolia Testnet, Zircuit Testnet, Polygon Amoy, Linea Sepolia Testnet
 
 ---
@@ -47,8 +49,11 @@ Networks: Scroll Sepolia Testnet, Zircuit Testnet, Polygon Amoy, Linea Sepolia T
 ### Data Integration and Automation
 
 **Chainlink:**
+
 Automation: Schedule data retrieval from IoT sensor devices.
+
 Functions: Perform off-chain computations (e.g., validating IoT data) and send verified results on-chain.
+
 Smart Contracts: Manage reward distribution and storage of verified IoT data on the blockchain.
 
 ---
@@ -58,6 +63,7 @@ Smart Contracts: Manage reward distribution and storage of verified IoT data on 
 **The Graph:**
 
 Build customized subgraphs to index and query on-chain IoT data.
+
 Enable efficient data feeds to the AI clustering model for ESG evaluation.
 
 ---
@@ -65,22 +71,28 @@ Enable efficient data feeds to the AI clustering model for ESG evaluation.
 ### Privacy and Governance
 
 **Inco Protocol**
+
 Leverage Fully Homomorphic Encryption (FHE) to enable privacy-preserving governance mechanisms.
+
 Facilitate anonymous employee participation (comments, upvotes/downvotes) in the ESG forum.
 
 ---
 
 ### Storage
 
-**IPFS**:Store raw IoT sensor data and metadata in a decentralized, immutable manner.
+**IPFS**
+
+Store raw IoT sensor data and metadata in a decentralized, immutable manner.
 Provide accessibility to data for on-chain analysis and audits.
 
 ---
 
 ### On Chain AI
 
-Model Deployment:
+**Model Deployment:**
+
 Deploy clustering models for ESG evaluation using pre-trained frameworks.
+
 Integrate with blockchain for on-chain inference.
 
 ---
